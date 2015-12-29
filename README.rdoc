@@ -1,0 +1,3 @@
+== recipefinder
+
+A simple Rails app that queries the Food2Fork API and returns a list of recipes based on a search parameter. The results are displayed in a table for the user.
