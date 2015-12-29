@@ -1,6 +1,6 @@
 == recipefinder
 
-Created for the course {Ruby on Rails: An Introduction}[https://www.coursera.org/learn/ruby-on-rails-intro/home/welcome].
+Created for the course {Ruby on Rails: An Introduction}[https://www.coursera.org/learn/ruby-on-rails-intro/].
 
 This is a simple Rails app that queries the Food2Fork API and returns a list of recipes based on a search parameter. The results are displayed in a table for the user.
 
